@@ -29,6 +29,8 @@ Isolated compute where AI agents run untrusted code: compared on cold start, iso
 - **[Freestyle](https://freestyle.sh)**: Full Linux KVM VMs with real root for AI app builders.
 - **[Morph](https://morphllm.com)**: Fast-apply model for editing files in a sandbox via MCP (a layer, not a full host).
 
+- **[Lizard Sandboxes](https://lizard.build/sandboxes)**: Firecracker microVMs with Python and TypeScript SDKs, shell and file APIs, stateful Python execution, snapshots, and Persistent Volumes. [Documentation](https://lizard.build/docs/sandboxes/).
+
 ## Enterprise, cloud & API sandboxes
 Vendor test environments for building against a platform without touching production. → [full comparison](https://comparesandboxes.com/enterprise-sandboxes)
 
